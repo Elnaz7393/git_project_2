@@ -14,3 +14,7 @@ git status
 
 Q5)
 git add file.txt
+
+Q6) touch answers.txt
+nano answers.txt
+(Writing answers in sereval steps modify > git add > git commit -m "explanation")
