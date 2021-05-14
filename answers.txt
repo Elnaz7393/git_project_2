@@ -8,3 +8,9 @@ git config --global user.email "balazadeh.elnaz@gmail.com"
 
 Q3)
 touch file.txt
+
+Q4) 
+git status
+
+Q5)
+git add file.txt
