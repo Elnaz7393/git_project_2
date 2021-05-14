@@ -6,3 +6,5 @@ Q2)
 git config --global user.name "Elnaz"
 git config --global user.email "balazadeh.elnaz@gmail.com"
 
+Q3)
+touch file.txt
