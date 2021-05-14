@@ -22,5 +22,5 @@ nano answers.txt
 Q7)
 For tracking answers.txt changes > git blame answers.txt or git diff answers.txt (but before commit)
 For tracking whole repository changes in > git log
-
+comparison between commits > git diff Head^^ (current commit and 2 commit before)
 
