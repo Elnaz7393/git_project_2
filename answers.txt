@@ -18,3 +18,9 @@ git add file.txt
 Q6) touch answers.txt
 nano answers.txt
 (Writing answers in sereval steps modify > git add > git commit -m "explanation")
+
+Q7)
+For tracking answers.txt changes > git blame answers.txt or git diff answers.txt (but before commit)
+For tracking whole repository changes in > git log
+
+
